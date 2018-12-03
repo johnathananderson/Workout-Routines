@@ -18,6 +18,6 @@ A short description of your app (its purpose and features)
 A list of how your app addresses each of the requirements (Backend)
     Uses SQLAlchemy to model the exerises
     Has at least one GET, POST, and DELETE request that interfaces with the database
-    The app is able to be run on our machine.
+    The app is able to be run on our machine and is deployed.
 
 Anything else you want your grader to know
